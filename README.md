@@ -62,3 +62,22 @@ sh scripts/train_rec.sh
 
 ## Acknowledgement
 We thank <a href='https://github.com/zxd-octopus/VRICR/tree/master'>VRICR</a> and <a href = 'https://github.com/wxl1999/UniCRS/tree/main'>UNICRS </a> for providing the useful source code for the data preprocessing and prompt learning steps.
+
+```bibtex
+@inproceedings{10.1145/3626772.3657755,
+author = {Dao, Huy and Deng, Yang and Le, Dung D. and Liao, Lizi},
+title = {Broadening the View: Demonstration-augmented Prompt Learning for Conversational Recommendation},
+year = {2024},
+isbn = {9798400704314},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3626772.3657755},
+doi = {10.1145/3626772.3657755},
+booktitle = {Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval},
+pages = {785–795},
+numpages = {11},
+keywords = {conversational recommendation, demonstration-based learning},
+location = {Washington DC, USA},
+series = {SIGIR '24}
+}
+```
