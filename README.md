@@ -5,7 +5,7 @@ Learning for Conversational Recommendation".
 
 ## 1. Setup
 
-Please install libraries, packages listed in the conv/requirements.txt file. Make sure that you are using CUDA 11.6. Otherwise, some unexpected behaviors might happen.
+Please install the libraries, and packages listed in the conv/requirements.txt file. Make sure that you are using CUDA 11.6. Otherwise, some unexpected behaviors might happen.
 
 ## 2. Data Preprocessing
 
@@ -60,6 +60,5 @@ To finetune our recommendation engine, please following commands:
 sh scripts/train_rec.sh
 ```
 
-
-
-
+## Acknowledgement
+We thank <a href='https://github.com/zxd-octopus/VRICR/tree/master'>VRICR</a> and <a href = 'https://github.com/wxl1999/UniCRS/tree/main'>UNICRS </a> for providing the useful source code for the data preprocessing and prompt learning steps.
