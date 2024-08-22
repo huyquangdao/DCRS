@@ -1,7 +1,7 @@
 # Broadening the View: Demonstration-augmented Prompt Learning for Conversational Recommendation
 
 This repo contains code and data for the paper: "Broadening the View: Demonstration-augmented Prompt
-Learning for Conversational Recommendation".
+Learning for Conversational Recommendation" - <a href='https://dl.acm.org/doi/10.1145/3626772.3657755'>DCRS</a>
 
 ## 1. Setup
 
