@@ -63,6 +63,8 @@ sh scripts/train_rec.sh
 ## Acknowledgement
 We thank <a href='https://github.com/zxd-octopus/VRICR/tree/master'>VRICR</a> and <a href = 'https://github.com/wxl1999/UniCRS/tree/main'>UNICRS </a> for providing the useful source code for the data preprocessing and prompt learning steps.
 
+Please cite the following our paper as references if you use our codes or the processed datasets.
+
 ```bibtex
 @inproceedings{10.1145/3626772.3657755,
 author = {Dao, Huy and Deng, Yang and Le, Dung D. and Liao, Lizi},
